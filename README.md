@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Volunteer Work
+### Volunteer Work  👯
 
 - Ruby Joinville meetup organizer - 2020
 - Fab Lab Joinville council member - 2019/2020 
