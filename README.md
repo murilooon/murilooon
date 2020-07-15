@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hiiii 👋
+
+### About me
+- books.append('programming', 'fictional', 'science')
+- games.push('video games', 'board games', 'RPG') 
+- musics.concat(['jazz', 'indie', 'hard rock', 'metal core'])
 
 <!--
 **murilooon/murilooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
