@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-## Volunteer Work
+### Volunteer Work
 
 - Fab Lab Joinville council member - 2019/2020 
 - Startup Weekend Joinville event organizer - 2018
