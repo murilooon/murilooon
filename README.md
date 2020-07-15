@@ -1,26 +1,19 @@
 ### Hiiii 👋
 
-### About me
+### About me :man:
 - books.append('programming', 'fictional', 'science')
 - games.push('video games', 'board games', 'RPG') 
 - musics.concat(['jazz', 'indie', 'hard rock', 'metal core'])
 
-<!--
-**murilooon/murilooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About work :computer:
+- I already worked with these languages: Python, Ruby, Javascript
+- I already worked with these technologies: Flask, Pandas, Numpy, Rails, React, Git, Bootstrap, Postgres, MySQL, Docker, CircleCI...
+- Methodologies that I use: SOLID, Extreme Programmig, Agile, TDD, unit and integration tests
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React Native, Node.js, Typescript and functional programming
+- :books: My favorite programming books are Extreme Programming, Clean Code and Pragmatic Programmer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Open-Source contributions
+### Open-Source contributions :heart:
 
 - [osano/cookieconsent](https://github.com/osano/cookieconsent)
 - [okfn-brasil/diario-oficial](https://github.com/okfn-brasil/diario-oficial)
