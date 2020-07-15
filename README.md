@@ -1,4 +1,5 @@
 ### Hiiii 👋
+My name is Murilo, welcome to my github. Don't be shy, you can stalk me. And if you have any doubts, here is my email murilooon@gmail.com :wink:
 
 ### About me :man:
 - books.append('programming', 'fictional', 'science')
@@ -14,14 +15,12 @@
 - :books: My favorite programming books are Extreme Programming, Clean Code and Pragmatic Programmer 
 
 ### Open-Source contributions :heart:
-
 - [osano/cookieconsent](https://github.com/osano/cookieconsent)
 - [okfn-brasil/diario-oficial](https://github.com/okfn-brasil/diario-oficial)
 - [fablabjoinville/fablabjoinville.github.io](https://github.com/fablabjoinville/fablabjoinville.github.io)
 - [marcuxyz/saturno](https://github.com/marcuxyz/saturno)
 
 ### Volunteer Work  👯
-
 - Ruby Joinville meetup organizer - 2020
 - Fab Lab Joinville council member - 2019/2020 
 - Startup Weekend Joinville event organizer - 2018
