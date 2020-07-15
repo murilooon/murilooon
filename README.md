@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [osano/cookieconsent](https://github.com/osano/cookieconsent)
 - [okfn-brasil/diario-oficial](https://github.com/okfn-brasil/diario-oficial)
 - [fablabjoinville/fablabjoinville.github.io](https://github.com/fablabjoinville/fablabjoinville.github.io)
-- [https://github.com/marcuxyz/saturno](https://github.com/marcuxyz/saturno)
+- [marcuxyz/saturno](https://github.com/marcuxyz/saturno)
 
 ### Volunteer Work  👯
 
