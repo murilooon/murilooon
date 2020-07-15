@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Volunteer Work
 
+- Ruby Joinville meetup organizer - 2020
 - Fab Lab Joinville council member - 2019/2020 
 - Startup Weekend Joinville event organizer - 2018
 - Bee Free event (to expand open-source) organizer - 2017
