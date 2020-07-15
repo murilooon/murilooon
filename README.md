@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Volunteer Work
+
+- Fab Lab Joinville council member - 2019/2020 
+- Startup Weekend Joinville event organizer - 2018
+- Bee Free event (to expand open-source) organizer - 2017
+- Colméia University Extension group who works with open-source - 2017
