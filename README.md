@@ -8,7 +8,7 @@ My name is Murilo, welcome to my github. Don't be shy, you can stalk me. And if 
 
 ### About work :computer:
 - I already worked with these languages: Python, Ruby, Javascript
-- I already worked with these technologies: Flask, Pandas, Numpy, Rails, React, Git, Bootstrap, Postgres, MySQL, Docker, CircleCI...
+- I already worked with these technologies: Flask, Pandas, Numpy, Rails, React, React Native, Git, Bootstrap, Postgres, MySQL, Docker, CircleCI...
 - Methodologies that I use: SOLID, Extreme Programmig, Agile, TDD, unit and integration tests
 
 - 🌱 I’m currently learning React Native, Node.js, Typescript and functional programming
