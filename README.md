@@ -29,4 +29,4 @@ My name is Murilo, welcome to my github. Don't be shy, you can stalk me. And if 
 
 ---
 
-[![Murilo's github stats](https://github-readme-stats.vercel.app/api?username=murilooon)](https://github.com/anuraghazra/github-readme-stats)
+[![Murilo's github stats](https://github-readme-stats.vercel.app/api?username=murilooon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
