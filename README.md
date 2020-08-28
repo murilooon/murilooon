@@ -26,3 +26,7 @@ My name is Murilo, welcome to my github. Don't be shy, you can stalk me. And if 
 - Startup Weekend Joinville event organizer - 2018
 - Bee Free event (to expand open-source) organizer - 2017
 - Colméia University Extension group who works with open-source - 2017
+
+---
+
+[![Murilo's github stats](https://github-readme-stats.vercel.app/api?username=murilooon)](https://github.com/anuraghazra/github-readme-stats)
