@@ -22,7 +22,7 @@ My name is Murilo, welcome to my github. Don't be shy, you can stalk me. And if 
 
 ### Volunteer Work  👯
 - Ruby Joinville Meetup organizer - 2020
-- Hacktoberfest Joinville organizer - 2019
+- Hacktoberfest Joinville organizer - 2019 and 2020
 - Fab Lab Joinville council member - 2019/2020 
 - Startup Weekend Joinville event organizer - 2018
 - Bee Free event (to expand open-source) organizer - 2017
