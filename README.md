@@ -1,5 +1,5 @@
 ### Hiiii 👋
-My name is Murilo, welcome to my github. Don't be shy, you can stalk me. And if you have any doubts, here is my email murilooon@protonmail.com :wink:
+My name is Murilo, welcome to my github. Don't be shy, you can stalk me. And if you have any doubts, here is my email murilooon@gmail.com :wink:
 
 ### About me :man:
 - books.append('programming', 'fictional', 'science')
