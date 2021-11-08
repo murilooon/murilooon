@@ -16,6 +16,7 @@ My name is Murilo, welcome to my github. Don't be shy, you can stalk me. And if 
 
 ### Open-Source contributions :heart:
 - [osano/cookieconsent](https://github.com/osano/cookieconsent)
+- [kusama/Kappa Sigma Mu](https://github.com/KappaSigmaMu/kappasigmamu.github.io)
 - [okfn-brasil/diario-oficial](https://github.com/okfn-brasil/diario-oficial)
 - [fablabjoinville/fablabjoinville.github.io](https://github.com/fablabjoinville/fablabjoinville.github.io)
 - [marcuxyz/saturno](https://github.com/marcuxyz/saturno)
